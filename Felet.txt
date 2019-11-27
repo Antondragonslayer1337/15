@@ -1,0 +1,1 @@
+Felet var att greenbg och ny bg var kvar efter man klickade. Så om man lägger till if (flagga==0){ flagga=1;, så går den tillbaka och man kan ändra igen.
